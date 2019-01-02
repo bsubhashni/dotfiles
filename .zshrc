@@ -5,7 +5,6 @@
 
 alias py='python'
 alias chrome="open /Applications/Google\ Chrome.app/ --args --disable-web-security"
-----------------------
 # Path to your oh-my-zsh configuration.
 ZSH=$HOME/.oh-my-zsh
 
